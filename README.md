@@ -1,2 +1,2 @@
 # hello-world
-my new project
+i am sandeep .i am new to this software
